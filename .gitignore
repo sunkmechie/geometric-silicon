@@ -1,0 +1,9 @@
+# Simulation outputs
+*.vcd
+*.out
+vvp_out.vvp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
